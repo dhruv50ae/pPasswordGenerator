@@ -3,7 +3,7 @@
 - One of the best projects created with python. This one has practical uses as one can generate a tough string of characters as their password
 ## Images
 
-<img src = "https://cdn.discordapp.com/attachments/229247596571525120/973261171740266516/unknown.png" />
+<img src = "https://cdn.discordapp.com/attachments/229247596571525120/973262937718399006/unknown.png" />
 
 ## Description
 
